@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Try It
 ---
-
-[batachelydia.github.io/calculate](https://secure-refuge-69954.herokuapp.com/ deployed to Heroku)
+deployed to Heroku
+https://secure-refuge-69954.herokuapp.com/
 
 ## Available Scripts
 
