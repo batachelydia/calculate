@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Try It
 ---
 
-[batachelydia.github.io/calculatrice](https://batachelydia.github.io/calculatrice/)
+[batachelydia.github.io/calculate](https://batachelydia.github.io/calculate/)
 
 ## Available Scripts
 
